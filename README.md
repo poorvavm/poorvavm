@@ -1,5 +1,3 @@
-<img src="PM-Profile-picture.jpeg" alt="Poorva Mittal" width="150" style="border-radius: 50%;" align="right"/>
-
 # Hi, I'm Poorva 👋
 
 📍 **San Francisco Bay Area** | 🧠 **AI Product Manager** | 💼 **Enterprise SaaS**
@@ -14,8 +12,6 @@ Building products at the intersection of AI and product-led growth — from zero
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-<br clear="right"/>
 
 ---
 
