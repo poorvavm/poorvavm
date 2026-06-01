@@ -34,6 +34,12 @@ Building products at the intersection of AI and healthcare — from zero-to-one 
 
 ---
 
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/poorvavm)
+
+---
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Poorva_Mittal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorvavm)
