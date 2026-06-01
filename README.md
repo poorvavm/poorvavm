@@ -26,38 +26,44 @@ Building SaaS products that scale — from zero-to-one discovery to enterprise d
 
 ## Featured Work Repo
 
+- 🔬 **[pm-product-research-agent](https://github.com/poorvavm/pm-product-research-agent)**
+
+  AI agent workflows for competitive intelligence, PRD generation, and feature pipeline planning — research cycles cut from days to hours
+
 - 🤖 **[pm-zero-to-one-ai-product](https://github.com/poorvavm/pm-zero-to-one-ai-product)**
 
   Full PM case study for *PharCovAI*: market research → competitive analysis → feature prioritization matrix → UX mockups → beta launch timeline
-
-- 🏥 **[pm-enterprise-readiness-checklist](https://github.com/poorvavm/pm-enterprise-readiness-checklist)**
-
-  Release readiness platform replacing spreadsheets with RBAC, audit logging, health tracking, and 149-item structured checklists across 4 org levels
-
-- 🍴 **[pm-family-fork](https://github.com/poorvavm/pm-family-fork)**
-
-  AI-powered recipe platform built with Flask + Claude API; personalized daily meal planning with automated email delivery
-
-- 🔬 **[pm-research-agent](https://github.com/poorvavm/pm-research-agent)**
-
-  AI agent workflows for competitive intelligence, PRD generation, and feature pipeline planning — research cycles cut from days to hours
 
 - 📋 **[pm-product-templates](https://github.com/poorvavm/pm-product-templates)**
 
   Production-ready PM toolkit spanning the full lifecycle: stakeholder discovery → sprint ceremonies → GTM → post-launch, with HIPAA compliance built in
 
----
+- 🏥 **[pm-enterprise-readiness-framework](https://github.com/poorvavm/pm-enterprise-readiness-framework)**
 
-## GitHub Activity
+  Release readiness platform replacing spreadsheets with RBAC, audit logging, health tracking, and 149-item structured checklists across 4 org levels
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/poorvavm)
+- 📝 **[pm-case-study-infinitus](https://github.com/poorvavm/pm-case-study-infinitus)**
+
+  PM case study — product strategy, competitive analysis, and go-to-market planning for an AI-powered healthcare platform
+
+- 💙 **[pm-case-study-clover-health](https://github.com/poorvavm/pm-case-study-clover-health)**
+
+  PM case study — product discovery, feature prioritization, and roadmap planning for a health insurance technology platform
+
+- 🎧 **[pm-case-study-zen-desk](https://github.com/poorvavm/pm-case-study-zen-desk)**
+
+  PM case study — user research, workflow analysis, and product improvements for a customer support SaaS platform
+
+- 🍴 **[pm-family-fork](https://github.com/poorvavm/pm-family-fork)**
+
+  AI-powered recipe platform built with Flask + Claude API; personalized daily meal planning with automated email delivery
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Poorva_Mittal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorvavm)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/poorvavm)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorvavm)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/poorvavm)
 
 ---
 
