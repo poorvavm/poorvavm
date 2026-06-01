@@ -1,6 +1,8 @@
+<img src="PM-Profile-picture.jpeg" alt="Poorva Mittal" width="150" style="border-radius: 50%;" align="right"/>
+
 # Hi, I'm Poorva 👋
 
-📍 **San Francisco Bay Area** | 🧠 **AI Product Manager** | 🏥 **Healthcare & Enterprise SaaS**
+📍 **San Francisco Bay Area** | 🧠 **AI Product Manager** | 💼 **Enterprise SaaS**
 
 Building products at the intersection of AI and healthcare — from zero-to-one discovery to enterprise-scale delivery.
 
@@ -15,22 +17,31 @@ Building products at the intersection of AI and healthcare — from zero-to-one 
 
 ---
 
-## Featured Work
-
-- 🤖 **[pm-zero-to-one-ai-product](https://github.com/poorvavm/pm-zero-to-one-ai-product)** — Full PM case study for *PharCovAI*: market research → competitive analysis → feature prioritization matrix → UX mockups → beta launch timeline
-- 🏥 **[pm-enterprise-readiness-checklist](https://github.com/poorvavm/pm-enterprise-readiness-checklist)** — Release readiness platform replacing spreadsheets with RBAC, audit logging, health tracking, and 149-item structured checklists across 4 org levels
-- 🍴 **[pm-family-fork](https://github.com/poorvavm/pm-family-fork)** — AI-powered recipe platform built with Flask + Claude API; personalized daily meal planning with automated email delivery
-- 🔬 **[pm-research-agent](https://github.com/poorvavm/pm-research-agent)** — AI agent workflows for competitive intelligence, PRD generation, and feature pipeline planning — research cycles cut from days to hours
-- 📋 **[pm-product-templates](https://github.com/poorvavm/pm-product-templates)** — Production-ready PM toolkit spanning the full lifecycle: stakeholder discovery → sprint ceremonies → GTM → post-launch, with HIPAA compliance built in
-
----
-
 ## What I Do
 
 - **AI Product Strategy** — Defining product vision for AI-native features from first principles, with a bias toward fast validation
 - **Zero-to-One Building** — Opportunity sizing, competitive analysis, feature ideation, prioritization, mockups, and launch planning
 - **Enterprise SaaS** — RBAC, compliance, multi-tenant architecture, and release readiness at scale
 - **Healthcare Tech** — HIPAA-aware product design, interoperability, and clinical workflow integration
+
+---
+
+## Featured Work
+
+- 🤖 **[pm-zero-to-one-ai-product](https://github.com/poorvavm/pm-zero-to-one-ai-product)**
+  Full PM case study for *PharCovAI*: market research → competitive analysis → feature prioritization matrix → UX mockups → beta launch timeline
+
+- 🏥 **[pm-enterprise-readiness-checklist](https://github.com/poorvavm/pm-enterprise-readiness-checklist)**
+  Release readiness platform replacing spreadsheets with RBAC, audit logging, health tracking, and 149-item structured checklists across 4 org levels
+
+- 🍴 **[pm-family-fork](https://github.com/poorvavm/pm-family-fork)**
+  AI-powered recipe platform built with Flask + Claude API; personalized daily meal planning with automated email delivery
+
+- 🔬 **[pm-research-agent](https://github.com/poorvavm/pm-research-agent)**
+  AI agent workflows for competitive intelligence, PRD generation, and feature pipeline planning — research cycles cut from days to hours
+
+- 📋 **[pm-product-templates](https://github.com/poorvavm/pm-product-templates)**
+  Production-ready PM toolkit spanning the full lifecycle: stakeholder discovery → sprint ceremonies → GTM → post-launch, with HIPAA compliance built in
 
 ---
 
@@ -44,7 +55,6 @@ Building products at the intersection of AI and healthcare — from zero-to-one 
 
 [![LinkedIn](https://img.shields.io/badge/-Poorva_Mittal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorvavm)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/poorvavm)
-[![Email](https://img.shields.io/badge/-poorvavm@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:poorvavm@gmail.com)
 
 ---
 
