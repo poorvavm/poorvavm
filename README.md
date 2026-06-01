@@ -15,6 +15,8 @@ Building products at the intersection of AI and product-led growth — from zero
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
+<br clear="right"/>
+
 ---
 
 ## What I Do
