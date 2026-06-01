@@ -34,6 +34,10 @@ Building SaaS products that scale — from zero-to-one discovery to enterprise d
 
   Full PM case study for *PharCovAI*: market research → competitive analysis → feature prioritization matrix → UX mockups → beta launch timeline
 
+- 🏢 **[pm-case-study](https://github.com/poorvavm/pm-case-study)**
+
+  Infinitus AI case study — ideation paper, execution strategy, Mermaid architecture diagrams, interactive demo, and PPTX presentation for a pharma compliance AI product
+
 - 📋 **[pm-product-templates](https://github.com/poorvavm/pm-product-templates)**
 
   Production-ready PM toolkit spanning the full lifecycle: stakeholder discovery → sprint ceremonies → GTM → post-launch, with HIPAA compliance built in
