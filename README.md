@@ -2,7 +2,7 @@
 
 📍 **San Francisco Bay Area** | 🧠 **AI Product Manager** | 💼 **Enterprise SaaS**
 
-Shipping AI-powered SaaS products — from first idea to enterprise scale.
+Building SaaS products that scale — from zero-to-one discovery to enterprise delivery.
 
 ![Product Strategy](https://img.shields.io/badge/-Product_Strategy-0052CC?style=flat-square)
 ![AI/ML Products](https://img.shields.io/badge/-AI%2FML_Products-FF6B6B?style=flat-square)
