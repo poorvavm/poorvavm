@@ -42,18 +42,6 @@ Building SaaS products that scale — from zero-to-one discovery to enterprise d
 
   Release readiness platform replacing spreadsheets with RBAC, audit logging, health tracking, and 149-item structured checklists across 4 org levels
 
-- 📝 **[pm-case-study-infinitus](https://github.com/poorvavm/pm-case-study-infinitus)**
-
-  PM case study — product strategy, competitive analysis, and go-to-market planning for an AI-powered healthcare platform
-
-- 💙 **[pm-case-study-clover-health](https://github.com/poorvavm/pm-case-study-clover-health)**
-
-  PM case study — product discovery, feature prioritization, and roadmap planning for a health insurance technology platform
-
-- 🎧 **[pm-case-study-zen-desk](https://github.com/poorvavm/pm-case-study-zen-desk)**
-
-  PM case study — user research, workflow analysis, and product improvements for a customer support SaaS platform
-
 - 🍴 **[pm-family-fork](https://github.com/poorvavm/pm-family-fork)**
 
   AI-powered recipe platform built with Flask + Claude API; personalized daily meal planning with automated email delivery
