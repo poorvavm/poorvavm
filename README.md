@@ -29,18 +29,23 @@ Building products at the intersection of AI and product-led growth — from zero
 ## Featured Work
 
 - 🤖 **[pm-zero-to-one-ai-product](https://github.com/poorvavm/pm-zero-to-one-ai-product)**
+
   Full PM case study for *PharCovAI*: market research → competitive analysis → feature prioritization matrix → UX mockups → beta launch timeline
 
 - 🏥 **[pm-enterprise-readiness-checklist](https://github.com/poorvavm/pm-enterprise-readiness-checklist)**
+
   Release readiness platform replacing spreadsheets with RBAC, audit logging, health tracking, and 149-item structured checklists across 4 org levels
 
 - 🍴 **[pm-family-fork](https://github.com/poorvavm/pm-family-fork)**
+
   AI-powered recipe platform built with Flask + Claude API; personalized daily meal planning with automated email delivery
 
 - 🔬 **[pm-research-agent](https://github.com/poorvavm/pm-research-agent)**
+
   AI agent workflows for competitive intelligence, PRD generation, and feature pipeline planning — research cycles cut from days to hours
 
 - 📋 **[pm-product-templates](https://github.com/poorvavm/pm-product-templates)**
+
   Production-ready PM toolkit spanning the full lifecycle: stakeholder discovery → sprint ceremonies → GTM → post-launch, with HIPAA compliance built in
 
 ---
