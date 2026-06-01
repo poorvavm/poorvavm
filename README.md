@@ -24,7 +24,7 @@ Building SaaS products that scale — from zero-to-one discovery to enterprise d
 
 ---
 
-## Featured Work
+## Featured Work Repo
 
 - 🤖 **[pm-zero-to-one-ai-product](https://github.com/poorvavm/pm-zero-to-one-ai-product)**
 
