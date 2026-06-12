@@ -50,6 +50,10 @@ Building SaaS products that scale — from zero-to-one discovery to enterprise d
 
   Infinitus AI case study — ideation paper, execution strategy, Mermaid architecture diagrams, interactive demo, and PPTX presentation for a pharma compliance AI product
 
+- 🎉 **[pm-weekend-fun](https://github.com/poorvavm/pm-weekend-fun)**
+
+  AI-powered weekend event discovery for the Bay Area — scrapes Eventbrite + Funcheap, ranks events by cost/family-friendliness via Claude, and delivers a weekly email digest
+
 ---
 
 ## Connect
