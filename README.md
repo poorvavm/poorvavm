@@ -26,6 +26,10 @@ Building SaaS products that scale — from zero-to-one discovery to enterprise d
 
 ## Featured Work Repo
 
+- 🧩 **[agentic-services-workbench](https://github.com/poorvavm/agentic-services-workbench)**
+
+  ASPIRE — a unified post-sales agentic workbench concept that turns a pre-sales handoff document into an AI-generated, traceable execution plan: resourcing, configuration guidance, and delivery tracking in one place
+
 - 🔬 **[pm-product-research-agent](https://github.com/poorvavm/pm-product-research-agent)**
 
   AI agent workflows for competitive intelligence, PRD generation, and feature pipeline planning — research cycles cut from days to hours
